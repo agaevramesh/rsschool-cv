@@ -1,1 +1,1 @@
-agaevramesh.github.io/rsschool-cv/cv
+agaevramesh.github.io/rsschool-cv/
