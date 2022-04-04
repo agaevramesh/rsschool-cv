@@ -19,7 +19,8 @@ I have been working in management a lot in a small company, now I want to be a f
 
 ## Code example:
 
-```function peak(arr) {
+```
+function peak(arr) {
 
 for (let i = 1; i < arr.length - 1; i++) {
 let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
